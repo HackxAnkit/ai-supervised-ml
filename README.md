@@ -9,7 +9,7 @@ algorithms.
 How to Run
 To run the program, simply type
 
-python src/main.py
+'python src/main.py'
 in your command prompt.
 
 Your dataset should be placed in the data folder first. When you run the program, there will be some menu along the way. You should answer it accordingly.
